@@ -91,7 +91,7 @@
 
 ## 🎶 What I’m Listening To  
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default)  
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ocdl3g4wm6bqvuasqs6w6zmt3a&cover_image=true&theme=default)  
 
 ---
 
