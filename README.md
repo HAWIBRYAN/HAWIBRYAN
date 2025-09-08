@@ -40,7 +40,7 @@
   Web + Mobile solution for booking and managing car rentals.  
 
 - 🤖 [**AI Chatbot**](https://github.com/HAWIBRYAN/my-portfolio)  
-  Customer support chatbot with natural language processing.  
+  Customer support chatbot with natural language processing in my portfolio website.  
 
 - 📊 [**Business Intelligence Dashboard**](https://github.com/HAWIBRYAN/LaravelERP)  
   Simple ERP system with laravel.
