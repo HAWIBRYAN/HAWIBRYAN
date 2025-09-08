@@ -65,13 +65,13 @@
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=HAWIBRYAN&theme=radical&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
 ## 🐍 Contribution Snake  
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
+![snake gif](https://github.com/HAWIBRYAN/HAWIBRYAN/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
