@@ -1,16 +1,19 @@
-# 👋 Hey there, I'm Hawi Bryan  
+![Header](https://raw.githubusercontent.com/HAWIBRYAN/HAWIBRYAN/main/assets/header.png)  
+<!-- ^ Create a custom banner in Canva/Figma and place it in /assets -->
+
+# 👋 Hey there, I'm Bryan Hawi
 
 💡 Passionate about building **scalable apps**, solving real-world problems with code, and learning something new every day.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=HAWIBRYAN&color=blue&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
 [![GitHub followers](https://img.shields.io/github/followers/HAWIBRYAN?label=Follow&style=social)](https://github.com/HAWIBRYAN)  
 
 ---
 
 ## 🚀 About Me  
-- 🌍 Based in Kenya 🇰🇪 
-- 💻 Currently working on: **Car Hire Services Management System** + **Bulk SMS Platform**  
-- 🌱 Learning more about **AI integration**, **DevOps**, and **cloud-native apps**  
+- 🌍 Based in Kenya  
+- 💻 Currently working on: **Car Hire Services System** + **Bulk SMS Platform**  
+- 🌱 Exploring **AI integration**, **DevOps**, and **cloud-native apps**  
 - 🤝 Open to collaborating on **open source** & **innovative startups**  
 - ⚡ Fun fact: I debug faster with 🎶 music  
 
@@ -44,22 +47,29 @@
 - 🚗 [**Car Hire Services Management System**](https://github.com/HAWIBRYAN/carwise-journey-buddy)  
   Web + Mobile solution for booking and managing car rentals.  
 
+- ✉️ [**Bulk SMS Platform**](https://github.com/HAWIBRYAN/TaifaMobileBulkSMS)  
+  A system for sending and managing bulk SMS campaigns, with delivery reports and analytics.  
+
 - 🤖 [**AI Chatbot**](https://github.com/HAWIBRYAN/my-portfolio)  
-  Customer support chatbot with natural language processing in my portfolio website.  
+  Customer support chatbot with natural language processing in my portfolio site.  
 
 - 📊 [**Business Intelligence Dashboard**](https://github.com/HAWIBRYAN/LaravelERP)  
-  Simple ERP system with laravel.
-  
-- ✉️ [**Bulk SMS Platform**](https://github.com/HAWIBRYAN/TaifaMobileBulkSMS)  
-  A system for sending and managing bulk SMS campaigns, with delivery reports and analytics.
+  Simple ERP system 
+
+---
+
+## 📢 What I'm Up To  
+- 🔭 Working on: Working on my portfolio 
+- 🎯 2025 Goal: Contribute more to open-source  
+- 🧩 Exploring: AI + Cloud integrations  
 
 ---
 
 ## 📈 GitHub Stats  
 
-![Hawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAWIBRYAN&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAWIBRYAN&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=HAWIBRYAN&theme=radical)  
+![Hawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)  
 
 ---
 
@@ -70,12 +80,24 @@
 ---
 
 ## 🐍 Contribution Snake  
- 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HAWIBRYAN/HAWIBRYAN/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HAWIBRYAN/HAWIBRYAN/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/HAWIBRYAN/HAWIBRYAN/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+## 🎶 What I’m Listening To  
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default)  
+
+---
+
+## 😂 Random Dev Joke  
+
+![Jokes Card](https://readme-jokes.vercel.app/api)  
 
 ---
 
