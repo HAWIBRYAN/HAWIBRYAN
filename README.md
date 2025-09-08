@@ -1,15 +1,20 @@
-# 👋 Hey there, I'm Hawi  
+# 👋 Hey there, I'm Hawi Bryan  
 
 💡 Passionate about building **scalable apps**, solving real-world problems with code, and learning something new every day.  
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)  
 
 ---
 
 ## 🚀 About Me  
-- 🌍 Based in Kenya  
-- 💻 Currently working on: **Car Hire Service Management System** (Web + Mobile)  
+- 🌍 Based in Kenya 🇰🇪 
+- 💻 Currently working on: **Car Hire Services Management System** + **Bulk SMS Platform**  
 - 🌱 Learning more about **AI integration**, **DevOps**, and **cloud-native apps**  
 - 🤝 Open to collaborating on **open source** & **innovative startups**  
 - ⚡ Fun fact: I debug faster with 🎶 music  
+
+![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ---
 
@@ -55,6 +60,18 @@
 ![Hawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAWIBRYAN&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAWIBRYAN&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HAWIBRYAN&theme=radical)  
+
+---
+
+## 🏆 GitHub Trophies  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
