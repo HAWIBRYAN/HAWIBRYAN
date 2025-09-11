@@ -5,7 +5,7 @@
 
 💡 Passionate about building **scalable apps**, solving real-world problems with code, and learning something new every day.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=HAWIBRYAN&color=blue&style=flat-square)  
 [![GitHub followers](https://img.shields.io/github/followers/HAWIBRYAN?label=Follow&style=social)](https://github.com/HAWIBRYAN)  
 
 ---
