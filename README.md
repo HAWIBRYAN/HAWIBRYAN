@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me  
-- 🌍 Based in Kenya  
+- 🌍 Based in Kenya 🇰🇪 
 - 💻 Currently working on: **Car Hire Services System** + **Bulk SMS Platform**  
 - 🌱 Exploring **AI integration**, **DevOps**, and **cloud-native apps**  
 - 🤝 Open to collaborating on **open source** & **innovative startups**  
