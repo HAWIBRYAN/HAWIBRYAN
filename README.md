@@ -92,6 +92,10 @@
 
 [![Spotify](https://spotify-widget-umber.vercel.app/api/spotify)](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
 
+<a href="https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a" target="_blank">
+  <img src="https://spotify-widget-umber.vercel.app/api/spotify?background_color=0d1117&border_color=30363d&color=c9d1d9" alt="Spotify Now Playing">
+</a>
+
 ---
 
 ## 😂 Random Dev Joke  
