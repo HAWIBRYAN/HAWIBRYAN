@@ -19,6 +19,13 @@
 ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ---
+## 🎶 What I’m Listening To
+
+
+[![Spotify](https://spotify-widget-nine.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
+
+
+---
 
 ## 🛠️ Tech Stack  
 
@@ -88,12 +95,6 @@
 
 ---
 
-## 🎶 What I’m Listening To
-
-
-[![Spotify](https://spotify-widget-nine.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
-
----
 
 ## 😂 Random Dev Joke  
 
