@@ -1,6 +1,3 @@
-![Header](https://raw.githubusercontent.com/HAWIBRYAN/HAWIBRYAN/main/Header.png)  
-<!-- ^ Create a custom banner in Canva/Figma and place it in /assets -->
-
 # 👋 Hey there, I'm Bryan Hawi
 
 💡 Passionate about building **scalable apps**, solving real-world problems with code, and learning something new every day.  
