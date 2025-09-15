@@ -99,10 +99,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)  
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=github-dark&textColor=f0f6fc&bgColor=0d1117&qColor=58a6ff&aColor=8b949e)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=github-dark&bgColor=0d1117)
-
 ---
 
 ## 🌐 Connect With Me  
