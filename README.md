@@ -69,9 +69,9 @@
 
 ## 📈 GitHub Stats  
 
-![Hawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAWIBRYAN&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAWIBRYAN&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=HAWIBRYAN&theme=radical)  
+![Hawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAWIBRYAN&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAWIBRYAN&layout=compact&theme=dark)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=HAWIBRYAN&theme=dark)  
 
 ---
 
