@@ -90,8 +90,6 @@
 
 ## 🎶 What I’m Listening To  (under construction)
 
-[![Spotify](https://spotify-widget-nine.vercel.app/api/spotify)](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
-
 [![Spotify](https://spotify-widget-nine.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
 
 ---
