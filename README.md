@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/HAWIBRYAN/HAWIBRYAN/main/assets/header.png)  
+![Header](https://raw.githubusercontent.com/HAWIBRYAN/HAWIBRYAN/main/Header.png)  
 <!-- ^ Create a custom banner in Canva/Figma and place it in /assets -->
 
 # 👋 Hey there, I'm Bryan Hawi
