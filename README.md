@@ -90,7 +90,7 @@
 
 ## 🎶 What I’m Listening To  (under construction)
 
-[![Spotify](https://hawi.vercel.app/api/spotify)](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
+[![Spotify](https://spotify-widget-nine.vercel.app/api/spotify)](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
 
 ---
 
