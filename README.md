@@ -92,6 +92,8 @@
 
 [![Spotify](https://spotify-widget-nine.vercel.app/api/spotify)](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
 
+[![Spotify](https://spotify-widget-nine.vercel.app/api/spotify?background_color=0d1117&border_color=30363d&color=f0f6fc)](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
+
 ---
 
 ## 😂 Random Dev Joke  
