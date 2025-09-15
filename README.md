@@ -52,7 +52,7 @@
 - 🤖 [**AI Chatbot**](https://github.com/HAWIBRYAN/my-portfolio)  
   Customer support chatbot with natural language processing in my portfolio site.  
 
-- 📊 [**Business Intelligence Dashboard**](https://github.com/HAWIBRYAN/LaravelERP)  
+- 📊 [**ERP system**](https://github.com/HAWIBRYAN/LaravelERP)  
   Simple ERP system 
 
 ---
