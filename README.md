@@ -76,7 +76,7 @@
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HAWIBRYAN&theme=radical&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=HAWIBRYAN&theme=dark&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
