@@ -20,8 +20,11 @@
 
 [![Spotify](https://spotify-widget-nine.vercel.app/api/spotify?t=${Date.now()})](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
 
-[![Spotify](https://spotify-widget-nine.vercel.app/api/spotify?t=${Date.now()})](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
-
+<div align="center">
+  <a href="https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a" target="_blank">
+    <img src="https://spotify-widget-nine.vercel.app/api/spotify?background_color=0d1117&border_color=30363d&color=ffffff" alt="Spotify Now Playing" width="400">
+  </a>
+</div>
 ---
 
 ## 🛠️ Tech Stack  
