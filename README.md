@@ -70,13 +70,6 @@
 
 ![Hawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAWIBRYAN&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAWIBRYAN&layout=compact&theme=dark)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAWIBRYAN&theme=dark)](https://git.io/streak-stats)
-
----
-
-## 🏆 GitHub Trophies  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HAWIBRYAN&theme=dark&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
