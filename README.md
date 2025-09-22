@@ -18,7 +18,7 @@
 ---
 ## 🎶 What I'm listening to
 
-[![Spotify](https://spotify-widget-nine.vercel.app/api/spotify?t=${Date.now()})](https://open.spotify.com/user/31ocdl3g4wm6bqvuasqs6w6zmt3a)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ocdl3g4wm6bqvuasqs6w6zmt3a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
