@@ -73,13 +73,6 @@
 
 ---
 
-##  GitHub Stats  
-
-![Hawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAWIBRYAN&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAWIBRYAN&layout=compact&theme=dark)  
-
----
-
 ##  Contribution Snake  
 
 <picture>
